@@ -1,0 +1,14 @@
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll.config
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.dll
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\ProvaCandidato.Data.pdb
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.dll
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.xml
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.AssemblyReference.cache
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CoreCompileInputs.cache
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.CopyComplete
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.dll
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.pdb
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.Migrations.provacandidato.resources
+C:\Users\nilso\Downloads\provacandidato MVC_distancia\provacandidato\ProvaCandidato MVC\ProvaCandidato.Data\obj\Debug\ProvaCandidato.Data.csproj.GenerateResource.cache
